@@ -18,8 +18,8 @@ public class HWWeek1 {
 		System.out.println("I've worked in the QA industry for about 3 years. \nI want to learn automation so I can expand my skills as QA professional.");
 		System.out.println("For hobbies, I do gaming as a hobby and explore around the Seattle area.");
 		System.out.println("I have some experience with coding before this, but I want more exposure to it in the work field.");
-		System.out.println("Github is sort of new to me.....");
-		System.out.println("It sounds and looks simple with what the user wants, but I'm still struggling trying to get my zen mode kicking.");
+		System.out.println("Github is sort of new to me..... and going back to commands the looking for other git commands, I'm getting that zen.");
+		System.out.println("You might have noticed some changes if you checked this on Saturday night. I'm this change on a local brach after pulling it from remote GitHub......\nand also merge back to the hub.");
 		System.out.println("Oh, and I'm a fan of Rick and Morty. \nCould really use a Mr.Meseeks right about now.");
 	}
 }
